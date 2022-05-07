@@ -4,4 +4,4 @@
 
 [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
-[Duckietoww MOOC](https://www.duckietown.org/mooc)
+[Duckietown MOOC](https://www.duckietown.org/mooc)
