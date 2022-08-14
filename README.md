@@ -1,6 +1,8 @@
-# ExplorerBot - a code repository for explorer bots
+## ExplorerBot - a code repository for explorer bots
 
-# Robot Knowledge
+[Arduino Uno Explorer Bot v1]
+
+## Robot Knowledge
 
 [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
