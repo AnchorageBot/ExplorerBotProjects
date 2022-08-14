@@ -12,4 +12,4 @@ Explorer Bot v1
 
 ## License
    
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/AnchorageBot/ExplorerBotProjects/blob/main/LICENSE)
