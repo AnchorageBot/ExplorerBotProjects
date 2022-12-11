@@ -8,6 +8,10 @@
 
 [Duckietown MOOC](https://www.duckietown.org/mooc)
 
+Gyroscopes
+
+- [Comparing Gyroscope Datasheets - Kevin Townsend - Adafruit](https://learn.adafruit.com/comparing-gyroscope-datasheets)
+
 ## License
    
 [MIT](https://github.com/AnchorageBot/ExplorerBotProjects/blob/main/LICENSE)
