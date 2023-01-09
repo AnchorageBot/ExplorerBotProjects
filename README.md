@@ -9,7 +9,7 @@ Donkeycar
 
 - [Donkeycar](https://www.donkeycar.com)
 
-Duckietown 
+Duckiebot
 
 - [edX](https://www.edx.org)
 
