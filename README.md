@@ -2,11 +2,23 @@
 
 [ExplorerBot Version 1](https://github.com/AnchorageBot/ExplorerBotProjects/blob/main/Uno_obstacleBot.ino) - Arduino Uno
 
+Duckietown 
+
+- [edX](https://www.edx.org)
+
+- [Duckietown MOOC](https://www.duckietown.org/mooc)
+
+- [Slack](https://slack.com)
+
+-[Docker](https://www.docker.com)
+
+-[Ubuntu Linux](https://ubuntu.com)
+
 ## Robot Knowledge
 
 [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
-[Duckietown MOOC](https://www.duckietown.org/mooc)
+
 
 Gyroscopes
 
