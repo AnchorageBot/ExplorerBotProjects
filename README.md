@@ -2,6 +2,13 @@
 
 [ExplorerBot Version 1](https://github.com/AnchorageBot/ExplorerBotProjects/blob/main/Uno_obstacleBot.ino) - Arduino Uno
 
+
+## Robot Knowledge
+
+Donkeycar
+
+- [Donkeycar](https://www.donkeycar.com)
+
 Duckietown 
 
 - [edX](https://www.edx.org)
@@ -10,15 +17,13 @@ Duckietown
 
 - [Slack](https://slack.com)
 
--[Docker](https://www.docker.com)
+- [Docker](https://www.docker.com)
 
--[Ubuntu Linux](https://ubuntu.com)
+- [Ubuntu Linux](https://ubuntu.com)
 
-## Robot Knowledge
+GitHub Robotics
 
 [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
-
-
 
 Gyroscopes
 
