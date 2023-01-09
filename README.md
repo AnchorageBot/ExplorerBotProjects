@@ -1,4 +1,4 @@
-## ExplorerBot - Resources and scripts for ExplorerBot Projects
+## Resources and scripts for ExplorerBot Projects
 
 Donkeycar
 
