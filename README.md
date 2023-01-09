@@ -12,6 +12,8 @@ Duckiebot
 
 - [Slack](https://slack.com)
 
+- [Stack Overflow Teams](https://stackoverflow.co/teams/)
+
 - [Docker](https://www.docker.com)
 
 - [Ubuntu Linux](https://ubuntu.com)
