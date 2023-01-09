@@ -21,9 +21,9 @@ Duckietown
 
 - [Ubuntu Linux](https://ubuntu.com)
 
-GitHub Robotics
+Opensource GitHub Robotics
 
-[Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+- [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
 Gyroscopes
 
