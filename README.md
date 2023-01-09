@@ -12,7 +12,7 @@ Duckiebot
 
 - [Slack](https://slack.com)
 
-- [Stack Overflow Teams](https://stackoverflow.co/teams/)
+- [Stack Overflow for Teams](https://stackoverflow.co/teams/)
 
 - [Docker](https://www.docker.com)
 
