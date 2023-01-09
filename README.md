@@ -21,13 +21,13 @@ Duckietown
 
 - [Ubuntu Linux](https://ubuntu.com)
 
-Opensource GitHub Robotics
-
-- [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
-
 Gyroscopes
 
 - [Comparing Gyroscope Datasheets - Kevin Townsend - Adafruit](https://learn.adafruit.com/comparing-gyroscope-datasheets)
+
+Opensource GitHub Robotics
+
+- [Dr Ghaffari's Course](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 
 ## License
    
