@@ -1,4 +1,6 @@
-## ExplorerBot - a code repository for explorer bots
+## ExplorerBot - Resources and scripts for ExplorerBot Projects
+
+## Code repository for explorer bots
 
 [ExplorerBot Version 1](https://github.com/AnchorageBot/ExplorerBotProjects/blob/main/Uno_obstacleBot.ino) - Arduino Uno
 
